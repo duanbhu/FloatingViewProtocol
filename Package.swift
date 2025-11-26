@@ -27,5 +27,6 @@ let package = Package(
             dependencies: [],
             path: "FloatingViewProtocol"
         )
-    ]
+    ],
+    swiftLanguageVersions: [.v5]
 )
