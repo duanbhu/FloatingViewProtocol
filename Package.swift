@@ -25,7 +25,7 @@ let package = Package(
         .target(
             name: "FloatingViewProtocol",
             dependencies: [],
-            path: "FloatingViewProtocol/Classes"
+            path: "FloatingViewProtocol"
         )
     ]
 )
